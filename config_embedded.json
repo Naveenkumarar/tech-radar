@@ -162,13 +162,6 @@
           "moved": 0
       },
       {
-          "quadrant": 0,
-          "ring": 2,
-          "label": "Dart",
-          "active": true,
-          "moved": 0
-      },
-      {
           "quadrant": 2,
           "ring": 0,
           "label": "Matlab",
@@ -256,13 +249,6 @@
           "quadrant": 0,
           "ring": 1,
           "label": "Heroku",
-          "active": true,
-          "moved": 0
-      },
-      {
-          "quadrant": 0,
-          "ring": 3,
-          "label": "Thingworm",
           "active": true,
           "moved": 0
       },
@@ -365,198 +351,9 @@
           "moved": 0
       },
       {
-          "quadrant": 3,
-          "ring": 0,
-          "label": "Django",
-          "active": true,
-          "moved": 0
-      },
-      {
-          "quadrant": 3,
-          "ring": 0,
-          "label": "Node",
-          "active": true,
-          "moved": 0
-      },
-      {
-          "quadrant": 3,
-          "ring": 1,
-          "label": "NestJs",
-          "active": true,
-          "moved": 0
-      },
-      {
-          "quadrant": 3,
-          "ring": 0,
-          "label": "ExpressJs",
-          "active": true,
-          "moved": 0
-      },
-      {
-          "quadrant": 3,
-          "ring": 0,
-          "label": "Flask",
-          "active": true,
-          "moved": 0
-      },
-      {
-          "quadrant": 3,
-          "ring": 2,
-          "label": "Angular Framework",
-          "active": true,
-          "moved": 0
-      },
-      {
-          "quadrant": 3,
-          "ring": 0,
-          "label": "PostgreSQL",
-          "active": true,
-          "moved": 0
-      },
-      {
-          "quadrant": 3,
-          "ring": 1,
-          "label": "MongoDB",
-          "active": true,
-          "moved": 0
-      },
-      {
-          "quadrant": 3,
-          "ring": 2,
-          "label": "MySQL",
-          "active": true,
-          "moved": 0
-      },
-      {
-          "quadrant": 3,
-          "ring": 2,
-          "label": "RTDB",
-          "active": true,
-          "moved": 0
-      },
-      {
-          "quadrant": 3,
-          "ring": 1,
-          "label": "Prisma",
-          "active": true,
-          "moved": 0
-      },
-      {
-          "quadrant": 3,
-          "ring": 2,
-          "label": "Mongoose",
-          "active": true,
-          "moved": 0
-      },
-      {
-          "quadrant": 0,
-          "ring": 1,
-          "label": "TypeScript",
-          "active": true,
-          "moved": 0
-      },
-      {
-          "quadrant": 0,
-          "ring": 1,
-          "label": "JavaScript",
-          "active": true,
-          "moved": 0
-      },
-      {
-          "quadrant": 0,
-          "ring": 2,
-          "label": "HTML",
-          "active": true,
-          "moved": 0
-      },
-      {
-          "quadrant": 0,
-          "ring": 3,
-          "label": "CSS",
-          "active": true,
-          "moved": 0
-      },
-      {
-          "quadrant": 0,
-          "ring": 3,
-          "label": "CASS",
-          "active": true,
-          "moved": 0
-      },
-      {
-          "quadrant": 0,
-          "ring": 2,
-          "label": "JQuery",
-          "active": true,
-          "moved": 0
-      },
-      {
-          "quadrant": 3,
-          "ring": 1,
-          "label": "Flutter",
-          "active": true,
-          "moved": 0
-      },
-      {
-          "quadrant": 3,
-          "ring": 1,
-          "label": "Jest",
-          "active": true,
-          "moved": 0
-      },
-      {
-          "quadrant": 3,
-          "ring": 2,
-          "label": "Chai",
-          "active": true,
-          "moved": 0
-      },
-      {
-          "quadrant": 3,
-          "ring": 3,
-          "label": "Enzyme",
-          "active": true,
-          "moved": 0
-      },
-      {
-          "quadrant": 3,
-          "ring": 3,
-          "label": "Mock",
-          "active": true,
-          "moved": 0
-      },
-      {
-          "quadrant": 3,
-          "ring": 0,
-          "label": "REST API",
-          "active": true,
-          "moved": 0
-      },
-      {
-          "quadrant": 3,
-          "ring": 2,
-          "label": "FAST API",
-          "active": true,
-          "moved": 0
-      },
-      {
           "quadrant": 2,
           "ring": 1,
           "label": "MQTT",
-          "active": true,
-          "moved": 0
-      },
-      {
-          "quadrant": 0,
-          "ring": 3,
-          "label": "GrpahQL",
-          "active": true,
-          "moved": 0
-      },
-      {
-          "quadrant": 0,
-          "ring": 1,
-          "label": "Jira",
           "active": true,
           "moved": 0
       },
@@ -578,41 +375,6 @@
           "quadrant": 0,
           "ring": 0,
           "label": "VS Code",
-          "active": true,
-          "moved": 0
-      },
-      {
-          "quadrant": 0,
-          "ring": 1,
-          "label": "DBeaver ",
-          "active": true,
-          "moved": 0
-      },
-      {
-          "quadrant": 0,
-          "ring": 1,
-          "label": "CLI",
-          "active": true,
-          "moved": 0
-      },
-      {
-          "quadrant": 0,
-          "ring": 2,
-          "label": "Java",
-          "active": true,
-          "moved": 0
-      },
-      {
-          "quadrant": 0,
-          "ring": 1,
-          "label": "Swagger",
-          "active": true,
-          "moved": 0
-      },
-      {
-          "quadrant": 0,
-          "ring": 3,
-          "label": "R",
           "active": true,
           "moved": 0
       }

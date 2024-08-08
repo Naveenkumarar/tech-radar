@@ -1,7 +1,41 @@
 {
-  "date": "2024.08",
+  "date": "Aug 2024",
   "entries": [
+      {
+        "quadrant": 2,
+        "ring": 1,
+        "label": "Thonny IDE",
+        "active": true,
+        "moved": 0
+    },
     {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Ubuntu Server",
+      "active": true,
+      "moved": 0
+   },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "ArduinoIDE",
+      "active": true,
+      "moved": 0
+  },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Arduino",
+      "active": true,
+      "moved": 0
+  },
+  {
+      "quadrant": 1,
+      "ring": 1,
+      "label": "Cortex",
+      "active": true,
+      "moved": 0
+  },{
         "quadrant": 1,
         "ring": 0,
         "label": "UART",
@@ -38,7 +72,7 @@
     },
     {
         "quadrant": 2,
-        "ring": 1,
+        "ring": 0,
         "label": "ROS2",
         "active": true,
         "moved": 0
@@ -66,7 +100,7 @@
     },
     {
         "quadrant": 0,
-        "ring": 1,
+        "ring": 0,
         "label": "Gitlab",
         "active": true,
         "moved": 0
@@ -87,7 +121,7 @@
     },
     {
         "quadrant": 1,
-        "ring": 1,
+        "ring": 0,
         "label": "RPi",
         "active": true,
         "moved": 0
@@ -143,7 +177,7 @@
     },
     {
         "quadrant": 2,
-        "ring": 1,
+        "ring": 0,
         "label": "Simulink",
         "active": true,
         "moved": 0
@@ -353,14 +387,14 @@
     },
     {
         "quadrant": 3,
-        "ring": 1,
+        "ring": 0,
         "label": "ExpressJs",
         "active": true,
         "moved": 0
     },
     {
         "quadrant": 3,
-        "ring": 1,
+        "ring": 0,
         "label": "Flask",
         "active": true,
         "moved": 0
@@ -584,3 +618,4 @@
     }
 ]
 }
+
