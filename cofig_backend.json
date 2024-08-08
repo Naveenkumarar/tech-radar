@@ -3,21 +3,21 @@
     "entries": [
        
       {
-          "quadrant": 0,
+          "quadrant": 1,
           "ring": 2,
           "label": "Git",
           "active": true,
           "moved": 0
       },
       {
-          "quadrant": 0,
+          "quadrant": 1,
           "ring": 0,
           "label": "Github",
           "active": true,
           "moved": 0
       },
       {
-          "quadrant": 0,
+          "quadrant": 1,
           "ring": 0,
           "label": "Gitlab",
           "active": true,
@@ -25,7 +25,7 @@
       },
       {
           "quadrant": 0,
-          "ring": 2,
+          "ring": 1,
           "label": "Embedded C",
           "active": true,
           "moved": 0
@@ -53,91 +53,119 @@
       },
       {
           "quadrant": 0,
-          "ring": 2,
+          "ring": 0,
           "label": "Dart",
           "active": true,
           "moved": 0
       },
       {
-          "quadrant": 0,
-          "ring": 1,
+          "quadrant": 1,
+          "ring": 0,
           "label": "Firebase",
           "active": true,
           "moved": 0
       },
       {
-          "quadrant": 0,
+          "quadrant": 1,
           "ring": 0,
-          "label": "AWS",
+          "label": "AWS EC2",
           "active": true,
           "moved": 0
       },
       {
-          "quadrant": 0,
+        "quadrant": 3,
+        "ring": 0,
+        "label": "AWS S3 Bucket",
+        "active": true,
+        "moved": 0
+       },
+       {
+        "quadrant": 3,
+        "ring": 0,
+        "label": "Docker",
+        "active": true,
+        "moved": 0
+       },
+       {
+        "quadrant": 2,
+        "ring": 1,
+        "label": "NPM",
+        "active": true,
+        "moved": 0
+       },
+       {
+        "quadrant": 2,
+        "ring": 0,
+        "label": "PIP",
+        "active": true,
+        "moved": 0
+       },
+      {
+          "quadrant": 1,
           "ring": 3,
           "label": "Azure",
           "active": true,
           "moved": 0
       },
       {
-          "quadrant": 0,
-          "ring": 2,
+          "quadrant": 3,
+          "ring": 0,
           "label": "Firestore",
           "active": true,
           "moved": 0
       },
       {
-          "quadrant": 0,
+          "quadrant": 1,
           "ring": 1,
           "label": "Heroku",
           "active": true,
           "moved": 0
       },
       {
-          "quadrant": 0,
+          "quadrant": 1,
           "ring": 3,
           "label": "Thingworm",
           "active": true,
           "moved": 0
       },
       {
-          "quadrant": 3,
+          "quadrant": 2,
           "ring": 0,
           "label": "Django",
           "active": true,
           "moved": 0
       },
       {
-          "quadrant": 3,
+          "quadrant": 2,
           "ring": 0,
-          "label": "Node",
+          "label": "NodeJS",
           "active": true,
           "moved": 0
       },
       {
-          "quadrant": 3,
-          "ring": 1,
+          "quadrant": 2,
+          "ring": 0,
           "label": "NestJs",
           "active": true,
-          "moved": 0
+          "moved": 1
       },
       {
-          "quadrant": 3,
+          "quadrant": 2,
           "ring": 0,
           "label": "ExpressJs",
           "active": true,
           "moved": 0
       },
       {
-          "quadrant": 3,
+          "quadrant": 2,
           "ring": 0,
           "label": "Flask",
           "active": true,
           "moved": 0
       },
       {
-          "quadrant": 3,
-          "ring": 2,
+          "quadrant": 2,
+          "ring": 1,
           "label": "Angular Framework",
           "active": true,
           "moved": 0
@@ -165,20 +193,41 @@
       },
       {
           "quadrant": 3,
-          "ring": 2,
+          "ring": 1,
           "label": "RTDB",
           "active": true,
           "moved": 0
       },
       {
-          "quadrant": 3,
+          "quadrant": 2,
           "ring": 1,
           "label": "Prisma",
           "active": true,
           "moved": 0
       },
       {
-          "quadrant": 3,
+        "quadrant": 2,
+        "ring": 0,
+        "label": "FCM",
+        "active": true,
+        "moved": 0
+      },
+      {
+        "quadrant": 2,
+        "ring": 1,
+        "label": "Scheduling",
+        "active": true,
+        "moved": 0
+      },
+      {
+        "quadrant": 2,
+        "ring": 2,
+        "label": "Threading",
+        "active": true,
+        "moved": 0
+      },
+      {
+          "quadrant": 2,
           "ring": 2,
           "label": "Mongoose",
           "active": true,
@@ -186,31 +235,45 @@
       },
       {
           "quadrant": 0,
-          "ring": 1,
+          "ring": 0,
           "label": "TypeScript",
           "active": true,
-          "moved": 0
+          "moved": 1
       },
       {
           "quadrant": 0,
-          "ring": 1,
+          "ring": 0,
           "label": "JavaScript",
           "active": true,
           "moved": 0
       },
       {
           "quadrant": 0,
-          "ring": 2,
+          "ring": 1,
           "label": "HTML",
           "active": true,
           "moved": 0
       },
       {
           "quadrant": 0,
-          "ring": 3,
+          "ring": 2,
           "label": "CSS",
           "active": true,
           "moved": 0
+      },
+      {
+        "quadrant": 0,
+        "ring": 3,
+        "label": "Kotlin",
+        "active": true,
+        "moved": 0
+      },
+      {
+        "quadrant": 0,
+        "ring": 3,
+        "label": "Swift",
+        "active": true,
+        "moved": 0
       },
       {
           "quadrant": 0,
@@ -227,7 +290,7 @@
           "moved": 0
       },
       {
-          "quadrant": 3,
+          "quadrant": 2,
           "ring": 1,
           "label": "Flutter",
           "active": true,
@@ -262,64 +325,78 @@
           "moved": 0
       },
       {
-          "quadrant": 3,
+          "quadrant": 1,
           "ring": 0,
           "label": "REST API",
           "active": true,
           "moved": 0
       },
       {
-          "quadrant": 3,
+          "quadrant": 1,
           "ring": 2,
           "label": "FAST API",
           "active": true,
           "moved": 0
       },
       {
-          "quadrant": 0,
+          "quadrant": 1,
           "ring": 3,
           "label": "GrpahQL",
           "active": true,
           "moved": 0
       },
       {
-          "quadrant": 0,
-          "ring": 1,
+          "quadrant": 1,
+          "ring": 2,
           "label": "Jira",
           "active": true,
           "moved": 0
       },
       {
-          "quadrant": 0,
+          "quadrant": 1,
           "ring": 0,
           "label": "Slack",
           "active": true,
           "moved": 0
       },
       {
-          "quadrant": 0,
+          "quadrant": 1,
           "ring": 0,
           "label": "Teams",
           "active": true,
           "moved": 0
       },
       {
-          "quadrant": 0,
+          "quadrant": 1,
           "ring": 0,
           "label": "VS Code",
           "active": true,
           "moved": 0
       },
       {
-          "quadrant": 0,
-          "ring": 1,
+          "quadrant": 3,
+          "ring": 0,
           "label": "DBeaver ",
           "active": true,
-          "moved": 0
+          "moved": 1
       },
       {
-          "quadrant": 0,
-          "ring": 1,
+        "quadrant": 3,
+        "ring": 1,
+        "label": "Redis ",
+        "active": true,
+        "moved": 0
+      },
+      {
+        "quadrant": 3,
+        "ring": 3,
+        "label": "OracleDB ",
+        "active": true,
+        "moved": 0
+      },
+      {
+          "quadrant": 1,
+          "ring": 0,
           "label": "CLI",
           "active": true,
           "moved": 0
@@ -332,7 +409,7 @@
           "moved": 0
       },
       {
-          "quadrant": 0,
+          "quadrant": 1,
           "ring": 1,
           "label": "Swagger",
           "active": true,
@@ -344,7 +421,21 @@
           "label": "R",
           "active": true,
           "moved": 0
-      }
+      },
+      {
+        "quadrant": 2,
+        "ring": 3,
+        "label": "React",
+        "active": true,
+        "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 3,
+      "label": "NextJS",
+      "active": true,
+      "moved": 0
+  }
   ]
   }
   

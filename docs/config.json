@@ -200,7 +200,7 @@
     },
     {
         "quadrant": 2,
-        "ring": 1,
+        "ring": 0,
         "label": "Prisma",
         "active": true,
         "moved": 0
