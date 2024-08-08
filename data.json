@@ -1,0 +1,93 @@
+[
+    {
+        "quadrant": 3,
+        "ring": 0,
+        "label": "REST API",
+        "active": true,
+        "moved": 0
+    },
+    {
+        "quadrant": 3,
+        "ring": 2,
+        "label": "FAST API",
+        "active": true,
+        "moved": 0
+    },
+    {
+        "quadrant": 2,
+        "ring": 1,
+        "label": "MQTT",
+        "active": true,
+        "moved": 0
+    },
+    {
+        "quadrant": 0,
+        "ring": 3,
+        "label": "GrpahQL",
+        "active": true,
+        "moved": 0
+    },
+    {
+        "quadrant": 0,
+        "ring": 1,
+        "label": "Jira",
+        "active": true,
+        "moved": 0
+    },
+    {
+        "quadrant": 0,
+        "ring": 0,
+        "label": "Slack",
+        "active": true,
+        "moved": 0
+    },
+    {
+        "quadrant": 0,
+        "ring": 0,
+        "label": "Teams",
+        "active": true,
+        "moved": 0
+    },
+    {
+        "quadrant": 0,
+        "ring": 0,
+        "label": "VS Code",
+        "active": true,
+        "moved": 0
+    },
+    {
+        "quadrant": 0,
+        "ring": 1,
+        "label": "DBeaver ",
+        "active": true,
+        "moved": 0
+    },
+    {
+        "quadrant": 0,
+        "ring": 1,
+        "label": "CLI",
+        "active": true,
+        "moved": 0
+    },
+    {
+        "quadrant": 0,
+        "ring": 2,
+        "label": "Java",
+        "active": true,
+        "moved": 0
+    },
+    {
+        "quadrant": 0,
+        "ring": 1,
+        "label": "Swagger",
+        "active": true,
+        "moved": 0
+    },
+    {
+        "quadrant": 0,
+        "ring": 3,
+        "label": "R",
+        "active": true,
+        "moved": 0
+    }
+]
