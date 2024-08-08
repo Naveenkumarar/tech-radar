@@ -42,6 +42,13 @@
         "active": true,
         "moved": 0
     },
+  {
+    "quadrant": 1,
+    "ring": 0,
+    "label": "PWM/PPM",
+    "active": true,
+    "moved": 0
+  },
     {
         "quadrant": 1,
         "ring": 0,
@@ -51,7 +58,7 @@
     },
     {
         "quadrant": 1,
-        "ring": 1,
+        "ring": 0,
         "label": "I2C",
         "active": true,
         "moved": 0
@@ -114,25 +121,67 @@
     },
     {
         "quadrant": 1,
-        "ring": 2,
+        "ring": 1,
         "label": "STM",
         "active": true,
         "moved": 0
     },
     {
+      "quadrant": 1,
+      "ring": 1,
+      "label": "ESP32",
+      "active": true,
+      "moved": 0
+  },
+    {
         "quadrant": 1,
         "ring": 0,
-        "label": "RPi",
+        "label": "RPi 3/4",
         "active": true,
         "moved": 0
     },
     {
+      "quadrant": 1,
+      "ring": 1,
+      "label": "RPi Zero",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "RPi Pico W/H",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 1,
+      "label": "Protenta",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 1,
+      "label": "Tennsy",
+      "active": true,
+      "moved": 0
+    },
+    {
         "quadrant": 1,
         "ring": 2,
-        "label": "Jetson",
+        "label": "Jetson Orin",
         "active": true,
         "moved": 0
     },
+    {
+      "quadrant": 1,
+      "ring": 1,
+      "label": "Jetson Nano",
+      "active": true,
+      "moved": 0
+  },
     {
         "quadrant": 0,
         "ring": 2,
@@ -162,13 +211,6 @@
         "moved": 0
     },
     {
-        "quadrant": 0,
-        "ring": 2,
-        "label": "Dart",
-        "active": true,
-        "moved": 0
-    },
-    {
         "quadrant": 2,
         "ring": 0,
         "label": "Matlab",
@@ -190,35 +232,35 @@
         "moved": 0
     },
     {
-        "quadrant": 1,
+        "quadrant": 3,
         "ring": 2,
         "label": "Proximity",
         "active": true,
         "moved": 0
     },
     {
-        "quadrant": 1,
+        "quadrant": 3,
         "ring": 1,
         "label": "Object Detector",
         "active": true,
         "moved": 0
     },
     {
-        "quadrant": 1,
+        "quadrant": 3,
         "ring": 3,
         "label": "High Torque Motor",
         "active": true,
         "moved": 0
     },
     {
-        "quadrant": 1,
-        "ring": 3,
+        "quadrant": 3,
+        "ring": 2,
         "label": "ESC",
         "active": true,
         "moved": 0
     },
     {
-        "quadrant": 1,
+        "quadrant": 3,
         "ring": 1,
         "label": "VESC",
         "active": true,
@@ -260,13 +302,6 @@
         "moved": 0
     },
     {
-        "quadrant": 0,
-        "ring": 3,
-        "label": "Thingworm",
-        "active": true,
-        "moved": 0
-    },
-    {
         "quadrant": 2,
         "ring": 1,
         "label": "Feedback Controller",
@@ -302,46 +337,88 @@
         "moved": 0
     },
     {
-        "quadrant": 1,
-        "ring": 1,
+        "quadrant": 3,
+        "ring": 0,
         "label": "Bluetooth Module",
         "active": true,
         "moved": 0
     },
     {
-        "quadrant": 1,
-        "ring": 1,
+        "quadrant": 3,
+        "ring": 0,
         "label": "Wifi Module ",
         "active": true,
         "moved": 0
     },
     {
-        "quadrant": 1,
-        "ring": 2,
+      "quadrant": 3,
+      "ring": 0,
+      "label": "3D Lidar ",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Depth Camera ",
+      "active": true,
+      "moved": 0
+    },
+    {
+        "quadrant": 3,
+        "ring": 1,
         "label": "Zigbee",
         "active": true,
         "moved": 0
     },
     {
-        "quadrant": 1,
+        "quadrant": 3,
         "ring": 0,
         "label": "LORA",
         "active": true,
         "moved": 0
     },
     {
-        "quadrant": 1,
+        "quadrant": 3,
         "ring": 0,
         "label": "Ultrsonic ",
         "active": true,
         "moved": 0
     },
     {
-        "quadrant": 1,
+        "quadrant": 3,
         "ring": 1,
         "label": "BLE",
         "active": true,
         "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 1,
+      "label": "Brushed Motor",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 1,
+      "label": "Brushless Motor",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Stepper Motor",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Servo Motor",
+      "active": true,
+      "moved": 0
     },
     {
         "quadrant": 1,
@@ -351,12 +428,33 @@
         "moved": 0
     },
     {
+      "quadrant": 1,
+      "ring": 3,
+      "label": "Ethernet",
+      "active": true,
+      "moved": 0
+  },
+    {
         "quadrant": 2,
         "ring": 1,
         "label": "Ardupilot",
         "active": true,
         "moved": 0
     },
+    {
+      "quadrant": 2,
+      "ring": 1,
+      "label": "Putty",
+      "active": true,
+      "moved": 0
+  },
+  {
+    "quadrant": 2,
+    "ring": 0,
+    "label": "SSH",
+    "active": true,
+    "moved": 0
+},
     {
         "quadrant": 2,
         "ring": 3,
@@ -365,198 +463,9 @@
         "moved": 0
     },
     {
-        "quadrant": 3,
-        "ring": 0,
-        "label": "Django",
-        "active": true,
-        "moved": 0
-    },
-    {
-        "quadrant": 3,
-        "ring": 0,
-        "label": "Node",
-        "active": true,
-        "moved": 0
-    },
-    {
-        "quadrant": 3,
-        "ring": 1,
-        "label": "NestJs",
-        "active": true,
-        "moved": 0
-    },
-    {
-        "quadrant": 3,
-        "ring": 0,
-        "label": "ExpressJs",
-        "active": true,
-        "moved": 0
-    },
-    {
-        "quadrant": 3,
-        "ring": 0,
-        "label": "Flask",
-        "active": true,
-        "moved": 0
-    },
-    {
-        "quadrant": 3,
-        "ring": 2,
-        "label": "Angular Framework",
-        "active": true,
-        "moved": 0
-    },
-    {
-        "quadrant": 3,
-        "ring": 0,
-        "label": "PostgreSQL",
-        "active": true,
-        "moved": 0
-    },
-    {
-        "quadrant": 3,
-        "ring": 1,
-        "label": "MongoDB",
-        "active": true,
-        "moved": 0
-    },
-    {
-        "quadrant": 3,
-        "ring": 2,
-        "label": "MySQL",
-        "active": true,
-        "moved": 0
-    },
-    {
-        "quadrant": 3,
-        "ring": 2,
-        "label": "RTDB",
-        "active": true,
-        "moved": 0
-    },
-    {
-        "quadrant": 3,
-        "ring": 1,
-        "label": "Prisma",
-        "active": true,
-        "moved": 0
-    },
-    {
-        "quadrant": 3,
-        "ring": 2,
-        "label": "Mongoose",
-        "active": true,
-        "moved": 0
-    },
-    {
-        "quadrant": 0,
-        "ring": 1,
-        "label": "TypeScript",
-        "active": true,
-        "moved": 0
-    },
-    {
-        "quadrant": 0,
-        "ring": 1,
-        "label": "JavaScript",
-        "active": true,
-        "moved": 0
-    },
-    {
-        "quadrant": 0,
-        "ring": 2,
-        "label": "HTML",
-        "active": true,
-        "moved": 0
-    },
-    {
-        "quadrant": 0,
-        "ring": 3,
-        "label": "CSS",
-        "active": true,
-        "moved": 0
-    },
-    {
-        "quadrant": 0,
-        "ring": 3,
-        "label": "CASS",
-        "active": true,
-        "moved": 0
-    },
-    {
-        "quadrant": 0,
-        "ring": 2,
-        "label": "JQuery",
-        "active": true,
-        "moved": 0
-    },
-    {
-        "quadrant": 3,
-        "ring": 1,
-        "label": "Flutter",
-        "active": true,
-        "moved": 0
-    },
-    {
-        "quadrant": 3,
-        "ring": 1,
-        "label": "Jest",
-        "active": true,
-        "moved": 0
-    },
-    {
-        "quadrant": 3,
-        "ring": 2,
-        "label": "Chai",
-        "active": true,
-        "moved": 0
-    },
-    {
-        "quadrant": 3,
-        "ring": 3,
-        "label": "Enzyme",
-        "active": true,
-        "moved": 0
-    },
-    {
-        "quadrant": 3,
-        "ring": 3,
-        "label": "Mock",
-        "active": true,
-        "moved": 0
-    },
-    {
-        "quadrant": 3,
-        "ring": 0,
-        "label": "REST API",
-        "active": true,
-        "moved": 0
-    },
-    {
-        "quadrant": 3,
-        "ring": 2,
-        "label": "FAST API",
-        "active": true,
-        "moved": 0
-    },
-    {
         "quadrant": 2,
         "ring": 1,
         "label": "MQTT",
-        "active": true,
-        "moved": 0
-    },
-    {
-        "quadrant": 0,
-        "ring": 3,
-        "label": "GrpahQL",
-        "active": true,
-        "moved": 0
-    },
-    {
-        "quadrant": 0,
-        "ring": 1,
-        "label": "Jira",
         "active": true,
         "moved": 0
     },
@@ -578,41 +487,6 @@
         "quadrant": 0,
         "ring": 0,
         "label": "VS Code",
-        "active": true,
-        "moved": 0
-    },
-    {
-        "quadrant": 0,
-        "ring": 1,
-        "label": "DBeaver ",
-        "active": true,
-        "moved": 0
-    },
-    {
-        "quadrant": 0,
-        "ring": 1,
-        "label": "CLI",
-        "active": true,
-        "moved": 0
-    },
-    {
-        "quadrant": 0,
-        "ring": 2,
-        "label": "Java",
-        "active": true,
-        "moved": 0
-    },
-    {
-        "quadrant": 0,
-        "ring": 1,
-        "label": "Swagger",
-        "active": true,
-        "moved": 0
-    },
-    {
-        "quadrant": 0,
-        "ring": 3,
-        "label": "R",
         "active": true,
         "moved": 0
     }
